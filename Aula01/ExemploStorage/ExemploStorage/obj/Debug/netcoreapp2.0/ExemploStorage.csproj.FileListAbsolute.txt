@@ -9,3 +9,14 @@ C:\AulaAzure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\Exempl
 C:\AulaAzure\Aula01\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.0\ExemploStorage.pdb
 C:\AulaAzure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\ExemploStorage.dll
 C:\AulaAzure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\ExemploStorage.pdb
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.0\ExemploStorage.deps.json
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.0\ExemploStorage.runtimeconfig.json
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.0\ExemploStorage.runtimeconfig.dev.json
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.0\ExemploStorage.dll
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.0\ExemploStorage.pdb
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\ExemploStorage.csprojAssemblyReference.cache
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\ExemploStorage.csproj.CoreCompileInputs.cache
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\ExemploStorage.AssemblyInfoInputs.cache
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\ExemploStorage.AssemblyInfo.cs
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\ExemploStorage.dll
+C:\FIAP.Azure\Aula01\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.0\ExemploStorage.pdb

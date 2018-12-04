@@ -3608,11 +3608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AulaAzure\\Aula01\\ExemploStorage\\ExemploStorage\\ExemploStorage.csproj",
+      "projectUniqueName": "C:\\FIAP.Azure\\Aula01\\ExemploStorage\\ExemploStorage\\ExemploStorage.csproj",
       "projectName": "ExemploStorage",
-      "projectPath": "C:\\AulaAzure\\Aula01\\ExemploStorage\\ExemploStorage\\ExemploStorage.csproj",
+      "projectPath": "C:\\FIAP.Azure\\Aula01\\ExemploStorage\\ExemploStorage\\ExemploStorage.csproj",
       "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-      "outputPath": "C:\\AulaAzure\\Aula01\\ExemploStorage\\ExemploStorage\\obj\\",
+      "outputPath": "C:\\FIAP.Azure\\Aula01\\ExemploStorage\\ExemploStorage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
