@@ -1,0 +1,9 @@
+﻿@model lojinha.Core.Models.Carrinho
+@{
+    ViewData["Title"] = "Home Page";
+}
+ 
+<span>
+    <span class="col-md-7">Total Itens: @Model.Items.Sum(x => x.Quantidade)</span>
+    <span class="col-md-7">R$: @Model.Items.Sum(x => x.Produto.Preco * x.Quantidade)</span>
+</span>
